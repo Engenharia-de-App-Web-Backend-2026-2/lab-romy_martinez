@@ -18,3 +18,5 @@ Foi configurado o arquivo nginx.conf, adicionando pesos para cada servidor. O pr
 4 – Quarta Etapa
 
 Foi adicionada a configuração ip_hash no documento de configuração do Nginx. Essa configuração permite que as requisições de um mesmo endereço IP sejam direcionadas preferencialmente ao mesmo servidor.
+
+5 - Quinta Etapa 
